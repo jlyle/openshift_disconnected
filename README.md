@@ -4,6 +4,7 @@ Installing OpenShift in a disconnected environment involves several steps. Hereâ
 
 1. **Prepare the Disconnected Environment:**
    - Ensure that you have a disconnected (air-gapped) network.
+         - 
    - Set up a bastion host with internet access to download the required images and content.
    - Set up a local registry in your disconnected environment to host the OpenShift images.
 
